@@ -197,6 +197,8 @@ exclude:
   - _pages/en-us/teaching.md
   - _pages/zh-cn/dropdown.md
   - _pages/en-us/dropdown.md
+  - _pages/books.md
+  - _books/
 # remove sample posts
   - _posts/zh-cn/2015-03-15-formatting-and-links.md
   - _posts/zh-cn/2015-05-15-images.md

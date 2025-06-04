@@ -2,7 +2,7 @@
 page_id: blog
 layout: default
 permalink: /blog/
-title: blog
+title: 博客
 blog_name: 博客
 description: 小博客
 nav: true

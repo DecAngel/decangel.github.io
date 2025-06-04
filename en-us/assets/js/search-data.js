@@ -55,16 +55,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/en-us/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-ensino",
+          title: "ensino",
+          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/en-us/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-membros",
+          title: "membros",
+          description: "membros do grupo de pesquisa ou laboratório",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/en-us/people/";

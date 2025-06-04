@@ -27,7 +27,8 @@ jobs:
         run: npx prettier . --check
       - name: Create diff 📝
         # https://docs.github.com/en/actions/learn-github-actions/expressions#failure
-        if: ${{ failure() }}
+        # if: ${{ failure() }}
+        if: ${{ always() }}
         run: |
           npx prettier . --write
           git diff -- . ':(exclude)package-lock.json' ':(exclude)package.json' > diff.txt

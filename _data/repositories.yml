@@ -1,15 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - decangel
 
 repo_description_lines_max: 2
 
 github_repos:
-  - george-gca/multi-language-al-folio
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - decangel/Transtreaming
+  - decangel/pytagspace
+  - decangel/decangel.github.io

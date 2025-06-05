@@ -86,7 +86,7 @@ ninja.data = [{
         title: 'Zotero',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.zotero.org/DecAngel", "_blank");
+          window.open("https://www.zotero.org/decangel", "_blank");
         },
       },{
           id: 'lang-zh-cn',

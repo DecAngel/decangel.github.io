@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: "关于"
+title: "首页"
 permalink: /
 subtitle: "<a href='#'>所属机构</a>. 地址. 联系方式. 座右铭. 其他信息"
 

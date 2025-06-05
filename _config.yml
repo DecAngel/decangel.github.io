@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 记事簿 # the website title (if blank, full name will be used instead)
+title: 章翔的个人主页 # the website title (if blank, full name will be used instead)
 first_name: Xiang
 middle_name:
 last_name: Zhang
@@ -41,7 +41,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true

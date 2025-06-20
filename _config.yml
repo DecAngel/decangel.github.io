@@ -736,9 +736,10 @@ jsonresume:
   - projects
   - work
   - awards
+  - certificates
   - skills
   - languages
   - interests
   # - references
   # - volunteer
-  # - certificates
+

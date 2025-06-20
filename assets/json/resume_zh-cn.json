@@ -83,7 +83,7 @@
       "url": "https://github.com/DecAngel/Transtreaming"
     },
     {
-      "name": "无人机智能手势和语音控制系统",
+      "name": "无人机智能手势和语音控制系统（东南大学srtp国家级项目，评级为良好）",
       "summary": "针对目前无人机控制复杂，学习成本高的问题，编写软件使用手势或语音发出指令使无人机完成各种基础动作的组合，极大地方便了用户操作",
       "highlights": ["手势识别", "语音识别"],
       "startDate": "2019-09-01",
@@ -132,6 +132,29 @@
       "date": "2024-01-01",
       "awarder": "东南大学",
       "url": "https://www.seu.edu.cn"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "东南大学数模竞赛校级一等奖",
+      "date": "2019-01-01",
+      "issuer": "东南大学",
+      "url": "https://www.seu.edu.cn",
+      "icon": "fa-solid fa-calculator"
+    },
+    {
+      "name": "东南大学结构竞赛校级二等奖",
+      "date": "2018-01-01",
+      "issuer": "东南大学",
+      "url": "https://www.seu.edu.cn",
+      "icon": "fa-solid fa-city"
+    },
+    {
+      "name": "东南大学机器人竞赛校级三等奖",
+      "date": "2020-01-01",
+      "issuer": "东南大学",
+      "url": "https://www.seu.edu.cn",
+      "icon": "fa-solid fa-robot"
     }
   ],
   "skills": [
@@ -192,8 +215,6 @@
 
   "volunteer": [
 
-  ],
-  "certificates": [
-
   ]
+
 }

@@ -3,16 +3,13 @@ page_id: about
 layout: about
 title: "首页"
 permalink: /
-subtitle: "<a href='#'>所属机构</a>. 地址. 联系方式. 座右铭. 其他信息"
+subtitle: "院系：<a href='https://cs.seu.edu.cn/'>东南大学计算机科学与工程学院</a><br/>地址：江苏省南京市江宁区东南大学九龙湖校区<br/>联系方式：18851893896"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>办公室号码：555</p>
-    <p>街道地址：123</p>
-    <p>所在城市，州份 12345</p>
 
 selected_papers: true
 social: true
@@ -27,9 +24,8 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-
-在此处填写个人简介。向世界介绍您自己，可添加您喜爱的 [Reddit子论坛链接](http://reddit.com)。您也可以插入图片——代码已预设完成，只需将个人照片命名为 `prof_pic.jpg` 并放入 `img/` 文件夹。
-
-将地址/邮政信箱/其他信息放置在个人照片下方区域。您可以通过编辑 `_pages/about.md` 文件头的 `profile` 属性禁用任意元素。编辑 `_bibliography/papers.bib` 后，Jekyll 将自动生成 [成果发表页面](/multi-language-al-folio/publications/)。
-
-本主题支持添加 [Font Awesome 图标](https://fontawesome.com/) 和 [Academicons 学术图标](https://jpswalsh.github.io/academicons/) 作为社交媒体链接（如下方示例）。可添加 Facebook、Twitter、LinkedIn、Google Scholar 等平台链接，亦可全部禁用。
+大家好！我是章翔，来自江苏省扬州市，目前是东南大学计算机学院人工智能专业的一名在读博士。
+我目前的研究方向为自动驾驶领域的实时感知算法方向，做过有关图像识别、语音识别、深度学习的很多工程项目。
+我在人工智能领域涉猎比较广泛，因个人兴趣也做过很多大模型相关的工具编写。
+作为一个i人，平常虽不擅长和人打交道，但还是很乐意去参与一些集体活动的。
+我喜欢赛博DIY，做很多自己想做的程序脚本、搭建个人网站和服务器等，希望有一天能在网络上有一片自己的天地。
